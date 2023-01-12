@@ -5,7 +5,7 @@
     "height": "170~174cm",
     "gender": "M",
     "season": "winter",
-    "heart" : "false"
+    "heart" : "true"
   },
   {
     "src": "/images/1 (2).jpg",
@@ -21,7 +21,7 @@
     "height": "175~179cm",
     "gender": "M",
     "season": "winter",
-    "heart" : "false"
+    "heart" : "true"
   },
   {
     "src": "/images/1 (4).jpg",
@@ -53,7 +53,7 @@
     "height": "150~154cm",
     "gender": "F",
     "season": "winter",
-    "heart" : "false"
+    "heart" : "true"
   },
   {
     "src": "/images/1 (8).jpg",
@@ -69,7 +69,7 @@
     "height": "165~169cm",
     "gender": "F",
     "season": "winter",
-    "heart" : "false"
+    "heart" : "true"
   },
   {
     "src": "/images/1 (10).jpg",
@@ -85,7 +85,7 @@
     "height": "139cm",
     "gender": "F",
     "season": "fall",
-    "heart" : "false"
+    "heart" : "true"
   },
   {
     "src": "/images/1 (12).jpg",
@@ -93,7 +93,7 @@
     "height": "160~164cm",
     "gender": "F",
     "season": "fall",
-    "heart" : "false"
+    "heart" : "true"
   },
   {
     "src": "/images/1 (13).jpg",

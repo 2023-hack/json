@@ -1,28 +1,33 @@
-import './css/Star.css';
-import Dummy from '../dummy.json';
-import { useRef } from 'react';
-import heart from '../assets/heart.png'
+/* eslint-disable */
+import './css/Nostar.css';
+import Dumy from '../dumy.json';
+import heart from '../assets/redheart.png'
 import redheart from '../assets/redheart.png'
 
 function Star() {
 
-    const img = useRef();
-
     return(
         <div className="container1">
             <div>
-                <div className="sta">
+                <div className="staro">
                     즐겨찾기
                 </div>
-                {Dummy.map((n, index)=>(
-                        <div className='images1'>
-                            <span>#{n.weight}</span><br/>
-                            <span>#{n.height}</span><br/>
-                            <span>#{n.gender}</span><br/>
-                            <span>#{n.season}</span><br/>
+                <div className='align'>
+                    {Dumy.map((n)=>(
+                        <>
+                        <div className='top'>
+                            <img src={redheart} className='heart1' alt='' />
+                            <img src={n.src} alt='' />
+                            <div className="images1">
+                                <span>#{n.weight}</span><br/>
+                                <span>#{n.height}</span><br/>
+                                <span>#{n.gender}</span><br/>
+                                <span>#{n.season}</span><br/>
+                            </div>
                         </div>
-                    </div>
-                ))}
+                        </>
+                    ))}
+                </div>
             </div>
         </div>
     );

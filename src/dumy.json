@@ -1,0 +1,114 @@
+[
+    {
+      "src": "/images/1 (1).jpg",
+      "weight": "60~64kg",
+      "height": "170~174cm",
+      "gender": "M",
+      "season": "winter",
+      "heart" : "true"
+    },
+    {
+      "src": "/images/1 (2).jpg",
+      "weight": "40~44kg",
+      "height": "160~164cm",
+      "gender": "F",
+      "season": "winter",
+      "heart" : "false"
+    },
+    {
+      "src": "/images/1 (3).jpg",
+      "weight": "70~74kg",
+      "height": "175~179cm",
+      "gender": "M",
+      "season": "winter",
+      "heart" : "true"
+    },
+    {
+      "src": "/images/1 (4).jpg",
+      "weight": "55~59kg",
+      "height": "170~174cm",
+      "gender": "M",
+      "season": "winter",
+      "heart" : "false"
+    },
+    {
+      "src": "/images/1 (7).jpg",
+      "weight": "45~49kg",
+      "height": "150~154cm",
+      "gender": "F",
+      "season": "winter",
+      "heart" : "true"
+    },
+    {
+      "src": "/images/1 (8).jpg",
+      "weight": "~39kg",
+      "height": "140~144cm",
+      "gender": "F",
+      "season": "winter",
+      "heart" : "false"
+    },
+    {
+      "src": "/images/1 (11).jpg",
+      "weight": "~39kg",
+      "height": "139cm",
+      "gender": "F",
+      "season": "fall",
+      "heart" : "true"
+    },
+    {
+      "src": "/images/1 (26).jpg",
+      "weight": "60~64kg",
+      "height": "170~174cm",
+      "gender": "F",
+      "season": "summer",
+      "heart" : "false"
+    },
+    {
+      "src": "/images/1 (27).jpg",
+      "weight": "65~69kg",
+      "height": "175~179cm",
+      "gender": "M",
+      "season": "summer",
+      "heart" : "false"
+    },
+    {
+      "src": "/images/1 (28).jpg",
+      "weight": "85~89kg",
+      "height": "190cm~",
+      "gender": "M",
+      "season": "summer",
+      "heart" : "false"
+    },
+    {
+      "src": "/images/1 (29).jpg",
+      "weight": "80~84kg",
+      "height": "180~184cm",
+      "gender": "M",
+      "season": "summer",
+      "heart" : "false"
+    },
+    {
+      "src": "/images/1 (30).jpg",
+      "weight": "75~79kg",
+      "height": "185~189cm",
+      "gender": "M",
+      "season": "summer",
+      "heart" : "false"
+    },
+    {
+      "src": "/images/1 (37).jpg",
+      "weight": "55~59kg",
+      "height": "170~174cm",
+      "gender": "F",
+      "season": "spring",
+      "heart" : "false"
+    },
+    {
+      "src": "/images/1 (38).jpg",
+      "weight": "85~89kg",
+      "height": "190cm~",
+      "gender": "M",
+      "season": "spring",
+      "heart" : "false"
+    }
+  ]
