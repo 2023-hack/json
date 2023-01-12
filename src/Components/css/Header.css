@@ -68,6 +68,7 @@ a{
     transition-duration: 0.000000000001s;
     transition-timing-function: ease-out;
     color: black;
+    z-index: 1;
 }
 
 .closebtn {
