@@ -1,0 +1,23 @@
+[
+    {
+      "src": "/images/무신사/개성 있게.jpg",
+      "weight": "180kg",
+      "height": "30cm",
+      "gender": "M",
+      "계절": "spring"
+    },
+    {
+        "src": "/images/무신사/개성 있게.jpg",
+        "weight": "180kg",
+        "height": "30cm",
+        "gender": "M",
+        "계절": "spring"
+      },
+      {
+        "src": "/images/무신사/개성 있게.jpg",
+        "weight": "180kg",
+        "height": "30cm",
+        "gender": "M",
+        "계절": "spring"
+      }
+  ]

@@ -1,0 +1,33 @@
+.center{
+    font-family: "tway_sky";
+    text-align: center;
+}
+.imgFile{
+    width:90%;
+    height:500px;
+    background-color: rgb(215, 215, 215);
+    border-radius: 10px;
+    margin-left:5%;
+    margin-top:3.5%
+}
+.button{
+    background-image: linear-gradient(to right,rgb(128, 189, 255),rgb(127, 189, 255),rgb(75, 162, 255),rgb(53, 151, 255),rgb(5, 126, 255));
+    border:1px solid white;
+    border-radius: 5px;
+    width:25%;
+    height:50px;
+    margin-top: 1.5%;
+    font-family: "tway_sky";
+    color:white;
+    font-weight: 100;
+}
+.img5{
+    margin-top:12%;
+}
+
+.button:active{
+    border-bottom: 2px solid rgb(231, 231, 231);
+    border-right: 2px solid rgb(255, 255, 255);
+    position: relative;
+    top:2px;
+}

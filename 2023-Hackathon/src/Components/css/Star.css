@@ -1,0 +1,23 @@
+.sta{
+    font-family: "tway_sky";
+    font-size: 1.5em;
+    width:90%;
+    margin:0 auto;
+    border-bottom: 2px solid rgb(65, 65, 65);
+    border-radius: 2px;
+    padding-top: 20px;
+    padding-bottom:15px;
+    color:rgb(65, 65, 65);
+    font-weight: 100;
+}
+.container1{
+    margin:0 auto;
+    width:100%;
+    height: 1200px;
+    text-align: center;
+}
+.img3{
+    margin-top: 30px;
+    margin-bottom: 30px;
+    width:90%;
+}
